@@ -1,5 +1,3 @@
-# game.py
-
 import random
 from constants import TRUTH_PROMPTS, DARE_PROMPTS
 
