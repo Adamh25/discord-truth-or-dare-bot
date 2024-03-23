@@ -1,5 +1,3 @@
-# constants.py
-
 TRUTH_PROMPTS = [
     "What is your biggest fear?",
     "What is the most embarrassing thing you've ever done?",
