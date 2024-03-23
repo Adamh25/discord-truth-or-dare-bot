@@ -1,5 +1,3 @@
-# bot.py
-
 import discord
 import asyncio
 from constants import TIMEOUT_SECONDS
