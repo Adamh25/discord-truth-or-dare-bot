@@ -20,4 +20,4 @@ DARE_PROMPTS = [
     "Speak in an accent for the next three rounds.",
 ]
 
-TIMEOUT_SECONDS = 30  # Timeout for response in seconds
+TIMEOUT_SECONDS = 30  
