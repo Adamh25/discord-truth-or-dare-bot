@@ -3,7 +3,6 @@ import asyncio
 from constants import TIMEOUT_SECONDS
 from game import Game
 
-# Initialize Discord client
 client = discord.Client()
 game = Game()
 
